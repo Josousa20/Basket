@@ -1,16 +1,15 @@
 
-🏀 Basketball Challenge
+Basketball Challenge
 
-Um jogo de basquete desenvolvido em Python com o objetivo de praticar e aplicar conceitos de programação de forma interativa.
+Um jogo de basquete desenvolvido em Python, com o objetivo de aplicar e praticar conceitos fundamentais de programação por meio do desenvolvimento de uma aplicação interativa.
 
-🎯 Sobre o projeto
+ Sobre o projeto
 
+O Basketball Challenge é um jogo de basquete desenvolvido na linguagem Python, no qual o jogador poderá realizar arremessos em direção à cesta e acumular pontos durante a partida.
 
-o Basketball challenge é um jogo de basquete feito com a linguagem Python,o jogador podera arremessar a bola na cesta,acumulando pontos durante o jogo
+O projeto será desenvolvido inicialmente de forma simples, com a possibilidade de receber novas mecânicas e funcionalidades ao longo do desenvolvimento.
 
-O projeto começará com uma versão simples e será desenvolvido gradualmente, adicionando novas mecânicas e funcionalidades.
-
-🚀 Funcionalidades
+ Funcionalidades
 
 - Menu principal
 - Sistema de pontuação
@@ -18,21 +17,13 @@ O projeto começará com uma versão simples e será desenvolvido gradualmente, 
 - Sistema de acerto e erro
 - Interface gráfica
 
-🛠️ Tecnologias
+Tecnologias
 
 - Python
-- Tkinter (interface gráfica, em uma etapa posterior)
+- Tkinter — utilizado para o desenvolvimento da interface gráfica
 
-📚 Objetivo
+Objetivo
 
-Utilizar o desenvolvimento do jogo para praticar conceitos fundamentais de Python, como:
+O desenvolvimento do projeto tem como objetivo colocar em prática conceitos fundamentais da linguagem Python, incluindo:
 
 - Variáveis
-- Estruturas condicionais
-- Estruturas de repetição
-- Funções
-- Listas
-- Módulos
-- Interface gráfica
-
-Alunos: Joanderson sousa da silva e Matheus da silva de Oliveira
